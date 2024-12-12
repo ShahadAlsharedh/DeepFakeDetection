@@ -32,7 +32,6 @@ The model is implemented using Tensorflow:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShahadAlsharedh/DeepFakeDetection
-   cd 3D-CNN-Model
    ```
 
 
